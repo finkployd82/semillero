@@ -30,6 +30,8 @@ nav a{
 
 nav li:hover{
     background-color: lightcoral;
+    border-radius:70%;
+    
 }
 
 figure img{
